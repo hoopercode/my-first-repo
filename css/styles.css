@@ -5,7 +5,7 @@
 
 nav {
 
-  margin-bottom: 0;
+  margin-bottom: 20px;
   background-color: lightseagreen;
 }
 
@@ -15,7 +15,7 @@ nav > ul {
   justify-content: space-around;
   border: 2px solid black;
   height: 40px;
-  align-items: right;
+  align-items: center;
   font-size: 25px;
   color: white;
 
@@ -26,22 +26,4 @@ nav > ul > li > a {
   color: white  ;
   font-family: Optima;
   
-}
-
-body > h1 {
-
-  text-align: center;
-}
-
-body > p {
-
-  text-align: center;
-  font-size: 20px;
-  margin-bottom: 80px;
-
-}
-
-ol > li {
-  font-size: 20px;
-  line-height: 30px;
 }
